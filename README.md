@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Andrea! 
+I am currently learning how to use GitHub and have found it very cool so far! I'm really interested in emotional regulation and want to eventually become a clinical psychologist. A fun fact about me is I have a one year-old German Shepherd dog named Gaia! 
 <!--
 **AndreaNCaro/AndreaNCaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
